@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1780999634832,
+      "tag": "0000_curly_colonel_america",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1780999927114,
+      "tag": "0001_mysterious_sentinel",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1781003405963,
+      "tag": "0002_narrow_beyonder",
+      "breakpoints": true
+    }
+  ]
+}
